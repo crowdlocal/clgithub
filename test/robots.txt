@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https://crowdlocal.netlify.app/sitemap.xml
